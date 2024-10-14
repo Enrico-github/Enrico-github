@@ -1,6 +1,8 @@
 Hi there 👋
 
-![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enrico-github&theme=cobalt)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-github)](https://github.com/Enrico-github/github-readme-stats)
+![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enrico-github&theme=cobalt) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-github)](https://github.com/Enrico-github/github-readme-stats)
 
 I know how to program in:
 
