@@ -1,4 +1,4 @@
 Hi there 👋
 
-![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=enricoprearo_icons=true&theme=tokyonigth)
+![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enrico-github_icons=true&theme=radical)
 
