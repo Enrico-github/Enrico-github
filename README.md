@@ -14,7 +14,7 @@ I know how to program in:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
 </div>
 <br></br>
-![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enrico-github&theme=cobalt) 
+<img src="![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enrico-github&theme=cobalt)">
 <br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-github)](https://github.com/Enrico-github/github-readme-stats)
+<img src ="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-github)](https://github.com/Enrico-github/github-readme-stats)">
 
