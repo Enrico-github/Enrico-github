@@ -2,7 +2,11 @@ Hi there 👋
 
 ![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enrico-github&theme=cobalt) 
 <br></br>
+my passion:
+<br></br>
 <img src ="https://img.shields.io/badge/Apple-000000.svg?style=for-the-badge&logo=Apple&logoColor=white">
+
+<br></br>
 I know how to program in:
 
 <div>
