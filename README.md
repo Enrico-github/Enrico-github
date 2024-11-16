@@ -3,7 +3,7 @@
 <img src ="https://img.shields.io/badge/Apple-000000.svg?style=for-the-badge&logo=Apple&logoColor=white">
 <img src ="https://img.shields.io/badge/Bungie-0075BB.svg?style=for-the-badge&logo=Bungie&logoColor=white">
 <br></br>
-I know how to program in:
+**I know how to program in:**
 
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"  title="C" alt="C" width="60" height="60"/>&nbsp;
