@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br></br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-github&size_weight=0.5&count_weight=0.5&bg_color=000000)
+![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enrico-github&theme=cobalt&bg_color=000000)
 <br></br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-github&size_weight=0.5&count_weight=0.5&bg_color=000000)
