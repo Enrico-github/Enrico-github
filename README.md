@@ -7,7 +7,7 @@
 <img src ="https://img.shields.io/badge/Yamaha%20Motor%20Corporation-E60012.svg?style=for-the-badge&logo=Yamaha-Motor-Corporation&logoColor=white">
 <br></br>
 
-<h3 align="left">Languages and Tools:</h3>
+**Languages and Tools:**
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
