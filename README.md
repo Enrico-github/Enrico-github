@@ -55,7 +55,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-github&size_weight=0.5&count_weight=0.5&bg_color=000000)
 
 <br></br>
-![Snake Game](https://github.com/Enrico-github/README.md/raw/main/snake_game.png)
 
 
 
