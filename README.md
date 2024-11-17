@@ -2,12 +2,20 @@
 <br></br>
 <img src ="https://img.shields.io/badge/Apple-000000.svg?style=for-the-badge&logo=Apple&logoColor=white">
 <img src ="https://img.shields.io/badge/Bungie-0075BB.svg?style=for-the-badge&logo=Bungie&logoColor=white">
-<img src ="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
+<img src ="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white">
 <img src ="https://img.shields.io/badge/Nike-111111.svg?style=for-the-badge&logo=Nike&logoColor=white">
+<img src ="https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white">
+<img src ="https://img.shields.io/badge/Logitech%20G-00B8FC.svg?style=for-the-badge&logo=Logitech-G&logoColor=white">
+<img src ="https://img.shields.io/badge/Corsair-000000.svg?style=for-the-badge&logo=Corsair&logoColor=white">
+<img src ="https://img.shields.io/badge/MSI-FF0000.svg?style=for-the-badge&logo=MSI&logoColor=white">
+<img src ="https://img.shields.io/badge/Cooler%20Master-1E1E28.svg?style=for-the-badge&logo=Cooler-Master&logoColor=white">
+<img src ="https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white">
+<img src ="https://img.shields.io/badge/ASUS-000000.svg?style=for-the-badge&logo=ASUS&logoColor=white">
+<img src ="https://img.shields.io/badge/AMD-ED1C24.svg?style=for-the-badge&logo=AMD&logoColor=white">
 <img src ="https://img.shields.io/badge/Yamaha%20Motor%20Corporation-E60012.svg?style=for-the-badge&logo=Yamaha-Motor-Corporation&logoColor=white">
 <br></br>
 
-**MY SKILLS**
+**MY SKILLS:**
 <p style="display: flex; gap: 15px; justify-content: center; align-items: center;">
   <!-- C --> 
   <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer" style="border: none; outline: none;">
