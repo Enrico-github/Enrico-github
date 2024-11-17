@@ -1,38 +1,35 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
 
-# Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
     # Every 6 hours
     - cron: "0 */6 * * *"
-
-  # This command allows us to run the Action manually from the Actions tab.
   workflow_dispatch:
 
-# The sequence of runs in this workflow
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Check out the repository under $GITHUB_WORKSPACE so the job can access it
+      # Check out the repository
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate the snake GIF and SVG
+      # Generate the snake graph (modifica o test alternativo)
       - name: Generate Snake
-        uses: Platane/snk@v2.2.1 # Specifica una versione stabile e recente
-        with:
-          github_user_name: "Enrico-github"  # Sostituisci con il tuo username esatto
+        run: |
+          curl -o snake.svg "https://platane.github.io/snk/api?username=Enrico-github"
+          mkdir -p dist
+          mv snake.svg dist/
 
-      # Commit and push the generated files
+      # Commit and push changes
       - name: Commit and Push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add .github/snake.svg
-          git commit -m "Generate snake contribution graph" || echo "No changes to commit"
+          git add dist/
+          git commit -m "Update snake contribution graph" || echo "No changes to commit"
           git push origin output --force
 
       # Deploy to GitHub Pages
@@ -40,4 +37,4 @@ jobs:
         uses: actions/deploy-pages@v2
         with:
           branch: output
-          folder: .github
+          folder: dist
