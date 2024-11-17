@@ -21,12 +21,11 @@ jobs:
     steps:
       # Check out the repository under $GITHUB_WORKSPACE so the job can access it
       - name: Checkout repository
-        uses: actions/checkout@v3  # Compatibile con Node.js 20
+        uses: actions/checkout@v3  # Ultima versione compatibile con Node.js 20
 
       # Generate the snake GIF and SVG
       - name: Generate Snake
-        uses: Platane/snk@master
-        id: snake-gif
+        uses: Platane/snk@v2  # Specifica una versione stabile e aggiornata
         with:
           github_user_name: Enrico-github
           gif_out_path: dist/github-contribution-grid-snake.gif
@@ -41,10 +40,9 @@ jobs:
           git commit -m "Generate snake contribution graph" || echo "No changes to commit"
           git push origin output --force
 
-      # Deploy the generated files to GitHub Pages
+      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2  # Azione ufficiale per GitHub Pages
+        uses: actions/deploy-pages@v2  # Azione ufficiale per il deploy su GitHub Pages
         with:
-          # Specify the target branch (output branch)
-          branch: output
-          folder: dist
+          branch: output  # Branch di output
+          folder: dist    # Directory con i file generati
