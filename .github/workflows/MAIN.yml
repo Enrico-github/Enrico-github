@@ -21,7 +21,7 @@ jobs:
     steps:
       # Check out the repository under $GITHUB_WORKSPACE so the job can access it
       - name: Checkout repository
-        uses: actions/checkout@v3  # Aggiornato alla versione v3
+        uses: actions/checkout@v3  # Compatibile con Node.js 20
 
       # Generate the snake GIF and SVG
       - name: Generate Snake
@@ -29,7 +29,6 @@ jobs:
         id: snake-gif
         with:
           github_user_name: Enrico-github
-          # Generate the files on a branch called "output" to avoid cluttering the main branch
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
@@ -44,8 +43,8 @@ jobs:
 
       # Deploy the generated files to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3  # Aggiornato alla versione v3
+        uses: actions/deploy-pages@v2  # Azione ufficiale per GitHub Pages
         with:
           # Specify the target branch (output branch)
-          target_branch: output
-          build_dir: dist
+          branch: output
+          folder: dist
