@@ -10,8 +10,8 @@
 **MY SKILLS**
 <p style="display: flex; gap: 15px; justify-content: center; align-items: center;">
   <!-- C -->
-  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer" style="border: none; outline: none;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer" style="border: none; outline: none;"/>
  
   <!-- C# -->
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="border: none; outline: none;">
