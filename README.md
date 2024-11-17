@@ -56,5 +56,9 @@
 
 <br></br>
 
+###
 
+<img src="https://raw.githubusercontent.com/Enrico-github/Enrico-github/output/snake.svg" alt="Snake animation" />
+
+###
 
