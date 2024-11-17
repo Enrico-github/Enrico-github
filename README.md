@@ -25,6 +25,7 @@
 
 ![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enrico-github&theme=cobalt)
 <br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-github&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-github&size_weight=0.5&count_weight=0.5&bg_color=2f2f2f)
+
 
 
