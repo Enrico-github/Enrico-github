@@ -4,6 +4,7 @@
 <img src ="https://img.shields.io/badge/Bungie-0075BB.svg?style=for-the-badge&logo=Bungie&logoColor=white">
 <img src ="https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white">
 <img src ="https://img.shields.io/badge/Nike-111111.svg?style=for-the-badge&logo=Nike&logoColor=white">
+<img src ="https://img.shields.io/badge/Jordan-000000.svg?style=for-the-badge&logo=Jordan&logoColor=white">
 <img src ="https://img.shields.io/badge/Amazon-FF9900.svg?style=for-the-badge&logo=Amazon&logoColor=white">
 <img src ="https://img.shields.io/badge/Logitech%20G-00B8FC.svg?style=for-the-badge&logo=Logitech-G&logoColor=white">
 <img src ="https://img.shields.io/badge/Corsair-000000.svg?style=for-the-badge&logo=Corsair&logoColor=white">
@@ -13,6 +14,12 @@
 <img src ="https://img.shields.io/badge/ASUS-000000.svg?style=for-the-badge&logo=ASUS&logoColor=white">
 <img src ="https://img.shields.io/badge/AMD-ED1C24.svg?style=for-the-badge&logo=AMD&logoColor=white">
 <img src ="https://img.shields.io/badge/Yamaha%20Motor%20Corporation-E60012.svg?style=for-the-badge&logo=Yamaha-Motor-Corporation&logoColor=white">
+<img src ="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white">
+<img src ="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">
+<img src ="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<img src ="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
+
+
 <br></br>
 
 **MY SKILLS:**
