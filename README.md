@@ -12,7 +12,7 @@
   <!-- C --> 
   <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer" style="border: none; outline: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   
  
   <!-- C# -->
