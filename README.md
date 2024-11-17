@@ -54,6 +54,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-github&size_weight=0.5&count_weight=0.5&bg_color=000000)
 
+<br></br>
 
+# Benvenuto nel mio Gioco Snake!
+
+Il mio Snake si nutre dei contributi giornalieri su GitHub! 🐍
+
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=tuo-username&bg_color=ffffff&color=green&line=00FF00&point=0000FF&area=true&hide_border=true)
+
+Il mio serpente cresce ogni volta che faccio un contributo. Ogni quadrato verde rappresenta un giorno di attività su GitHub.
 
 
