@@ -27,9 +27,8 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2  # Specifica una versione stabile e aggiornata
         with:
-          github_user_name: Enrico-github
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: Enrico-github  # Il tuo username GitHub
+          outputs: dist/  # Specifica la directory di output per i file generati
 
       # Commit and push the generated files
       - name: Commit and Push changes
