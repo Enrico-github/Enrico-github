@@ -55,9 +55,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enrico-github&size_weight=0.5&count_weight=0.5&bg_color=000000)
 
 <br></br>
-###
 
-<img src="https://raw.githubusercontent.com/Enrico-github/Enrico-github/output/snake.svg" alt="Snake animation" />
-
-###
-
+<!--snake todo-->
