@@ -21,7 +21,7 @@ jobs:
     steps:
       # Check out the repository under $GITHUB_WORKSPACE so the job can access it
       - name: Checkout repository
-        uses: actions/checkout@v3  # Aggiornato alla versione v3 per evitare problemi con Node.js
+        uses: actions/checkout@v3  # Aggiornato alla versione v3
 
       # Generate the snake GIF and SVG
       - name: Generate Snake
@@ -33,17 +33,14 @@ jobs:
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Show the status of the repository (useful for debugging)
-      - name: Show Git status
-        run: git status
-
-      # Push the generated files to the "output" branch
-      - name: Push changes
-        uses: ad-m/github-push-action@v2  # Aggiornato alla versione v2
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
+      # Commit and push the generated files
+      - name: Commit and Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git commit -m "Generate snake contribution graph" || echo "No changes to commit"
+          git push origin output --force
 
       # Deploy the generated files to GitHub Pages
       - name: Deploy to GitHub Pages
