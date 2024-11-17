@@ -1,9 +1,7 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
 name: Generate Snake
 
 on:
   schedule:
-    # Every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
@@ -16,12 +14,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Generate the snake graph (modifica o test alternativo)
-      - name: Generate Snake
+      # Generate the snake graph using curl
+      - name: Generate Snake SVG
         run: |
           curl -o snake.svg "https://platane.github.io/snk/api?username=Enrico-github"
           mkdir -p dist
           mv snake.svg dist/
+        shell: bash
+
+      # Show generated files (debugging)
+      - name: List output files
+        run: ls -R dist
 
       # Commit and push changes
       - name: Commit and Push changes
@@ -31,6 +34,7 @@ jobs:
           git add dist/
           git commit -m "Update snake contribution graph" || echo "No changes to commit"
           git push origin output --force
+        shell: bash
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
