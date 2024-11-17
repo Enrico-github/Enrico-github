@@ -12,36 +12,32 @@ on:
 
 # The sequence of runs in this workflow
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Check out the repository under $GITHUB_WORKSPACE so the job can access it
       - name: Checkout repository
-        uses: actions/checkout@v3  # Ultima versione compatibile con Node.js 20
+        uses: actions/checkout@v3
 
       # Generate the snake GIF and SVG
       - name: Generate Snake
-        uses: Platane/snk@v2  # Specifica una versione stabile e aggiornata
+        uses: Platane/snk@v2.2.1 # Specifica una versione stabile e recente
         with:
-          github_user_name: Enrico-github  # Il tuo username GitHub
-          outputs: dist/  # Specifica la directory di output per i file generati
+          github_user_name: "Enrico-github"  # Sostituisci con il tuo username esatto
 
       # Commit and push the generated files
       - name: Commit and Push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/
+          git add .github/snake.svg
           git commit -m "Generate snake contribution graph" || echo "No changes to commit"
           git push origin output --force
 
       # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v2  # Azione ufficiale per il deploy su GitHub Pages
+        uses: actions/deploy-pages@v2
         with:
-          branch: output  # Branch di output
-          folder: dist    # Directory con i file generati
+          branch: output
+          folder: .github
