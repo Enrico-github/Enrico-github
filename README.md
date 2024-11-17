@@ -8,7 +8,38 @@
 <br></br>
 
 **MY SKILLS**
+<p align="center" style="display: flex; gap: 15px; justify-content: center; align-items: center;">
+  <!-- C -->
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer" style="border: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a>
+  <!-- C# -->
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer" style="border: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  </a>
+  <!-- Java -->
+  <a href="https://docs.oracle.com/javase/8/docs/" target="_blank" rel="noreferrer" style="border: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  </a>
+  <!-- Python -->
+  <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer" style="border: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="border: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
+  </a>
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="border: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
+  </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="border: none; outline: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
+</p>
 
+<br></br>
 
 ![Enrico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enrico-github&theme=cobalt&bg_color=000000)
 <br></br>
