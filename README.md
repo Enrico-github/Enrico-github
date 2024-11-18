@@ -21,7 +21,7 @@
 
 
 <br></br>
-<!--0d1117--> color background default
+<!--0d1117  color background default--> 
 **MY SKILLS:**
 <p style="display: flex; gap: 15px; justify-content: center; align-items: center;">
   <!-- C --> 
