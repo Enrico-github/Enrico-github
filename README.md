@@ -19,7 +19,6 @@
 <img src ="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 <img src ="https://img.shields.io/badge/TikTok-000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 
-
 <br></br>
 <!--0d1117  color background default--> 
 **MY SKILLS:**
