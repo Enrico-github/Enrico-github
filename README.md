@@ -47,6 +47,9 @@
   <!-- MySQL -->
   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer" style="border: none; outline: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" /></a>&nbsp;
+  <!-- PHP -->
+ <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer" style="border: none; outline: none;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60" /></a>&nbsp;
 </p>
 
 <br></br>
