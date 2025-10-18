@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Enrico-github&color=purple)
 **MY HOBBY:**
 <br></br>
 <img src ="https://img.shields.io/badge/Apple-000000.svg?style=for-the-badge&logo=Apple&logoColor=white">
