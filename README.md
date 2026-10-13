@@ -51,12 +51,16 @@
  <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer" style="border: none; outline: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60" /></a>&nbsp;
 </p>
-
 <br></br>
-
 <img src = "https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
 <br></br>
 
-![](https://komarev.com/ghpvc/?username=Enrico-github&color=blueviolet)
-<br><br/>
 ![snake gif](https://github.com/Enrico-github/Enrico-github/blob/output/github-snake-dark.svg)
+
+<br><br/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=600&color=F43F5E&width=600&height=120&lines=%3E%20%E2%80%9CNo+promises.+Just+results.%E2%80%9D;-%20Simon%20%22Ghost%22%20Riley" alt="Ghost Quote" />
+</p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Enrico-github&color=blueviolet" alt="Profile Views" />
+</p>
