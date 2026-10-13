@@ -59,4 +59,4 @@
 
 ![](https://komarev.com/ghpvc/?username=Enrico-github&color=blueviolet)
 <br><br/>
-<!--snake todo-->
+![snake gif](https://github.com/Enrico-github/Enrico-github/blob/output/github-snake-dark.svg)
