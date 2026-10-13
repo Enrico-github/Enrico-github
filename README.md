@@ -51,9 +51,7 @@
  <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer" style="border: none; outline: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60" /></a>&nbsp;
 </p>
-<br></br>
-<img src = "https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
-<br></br>
+<br><br/>
 
 ![snake svg](https://raw.githubusercontent.com/Enrico-github/Enrico-github/output/github-snake-dark.svg)
 <br><br/>
