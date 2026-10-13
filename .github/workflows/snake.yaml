@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    # Si avvia automaticamente ogni 24 ore
+    # Esegue automaticamente ogni 24 ore
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -13,14 +13,14 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate Snake GIF
         uses: platane/snk@v3
         with:
           github_user_name: Enrico-github
           outputs: |
-            dist/github-snake-dark.svg?color_snake=#F43F5E&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-snake-dark.gif?color_snake=#F43F5E&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
-      - name: Push Snake SVG to output branch
+      - name: Push Snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
