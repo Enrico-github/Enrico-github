@@ -1,4 +1,4 @@
-**MY HOBBY:**
+🎮 ℍ𝕠𝕓𝕓𝕚𝕖𝕤 & 𝕀𝕟𝕥𝕖𝕣𝕖𝕤𝕥𝕤
 <br></br>
 <img src ="https://img.shields.io/badge/Apple-000000.svg?style=for-the-badge&logo=Apple&logoColor=white">
 <img src ="https://img.shields.io/badge/Bungie-0075BB.svg?style=for-the-badge&logo=Bungie&logoColor=white">
@@ -21,7 +21,7 @@
 
 <br></br>
 <!--0d1117  color background default--> 
-**MY SKILLS:**
+🛠️ 𝕊𝕜𝕚𝕝𝕝𝕤 & 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
 <p style="display: flex; gap: 15px; justify-content: center; align-items: center;">
   <!-- C --> 
   <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer" style="border: none; outline: none;">
