@@ -58,6 +58,3 @@
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=600&color=F43F5E&width=600&height=120&lines=%3E%20%E2%80%9CNo+promises.+Just+results.%E2%80%9D;-%20Simon%20%22Ghost%22%20Riley" alt="Ghost Quote" />
 </p>
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Enrico-github&color=blueviolet" alt="Profile Views" />
-</p>
