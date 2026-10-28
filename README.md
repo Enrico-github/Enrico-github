@@ -22,6 +22,7 @@
 <br>
 <!--0d1117  color background default--> 
 🛠️ 𝕊𝕜𝕚𝕝𝕝𝕤 & 𝕋𝕖𝕔𝕙 𝕊𝕥𝕒𝕔𝕜
+<br></br>
 <p style="display: flex; gap: 15px; justify-content: center; align-items: center;">
   <!-- C --> 
   <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer" style="border: none; outline: none;">
